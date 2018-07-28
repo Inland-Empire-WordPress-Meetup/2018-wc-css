@@ -1,0 +1,13 @@
+/*
+ *	Organizer Page CSS - https://2018.riverside.wordcamp.org/organizers
+ */
+
+div.wcorg-organizer h2 {
+	padding-top: 3rem;
+}
+
+img.avatar {
+	float: left;
+	margin-right: 1rem;
+	padding-top: .2rem;
+}
