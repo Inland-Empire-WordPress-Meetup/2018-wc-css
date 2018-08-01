@@ -8,6 +8,25 @@
  */
 
 /*
+ * Fonts - Roboto Slab for headlines as it's similar ot the Riverside WordCamp Logo typface
+ */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.entry-title a {
+	font-family: 'Roboto Slab', serif;
+}
+
+a {
+	color: #25a9f0;
+}
+
+/*
  * Navigation Styles
  */
 .menu-primary-container a {
