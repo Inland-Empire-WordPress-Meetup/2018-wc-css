@@ -1,11 +1,29 @@
 /*
- *	Organizer Page CSS - https://2018.riverside.wordcamp.org/organizers
+ * Color pallete
+ * #240e28 - black
+ * #521a4a - purple
+ * #d8247c - red
+ * #25a9f0 - blue
+ * #ffffff - white
  */
 
+/*
+ * Navigation Styles
+ */
+.menu-primary-container a {
+	color: #d8247c;
+}
+
+/*
+ *	Organizer Page CSS - https://2018.riverside.wordcamp.org/organizers
+ */
 div.wcorg-organizer h2 {
 	padding-top: 3rem;
 }
 
+/*
+ * Gravitar's Avatar
+ */ 
 img.avatar {
 	float: left;
 	margin-right: 1rem;
