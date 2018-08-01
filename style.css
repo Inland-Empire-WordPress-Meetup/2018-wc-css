@@ -26,7 +26,8 @@ h6,
 	font-family: 'Roboto Slab', serif;
 }
 
-h1.entry-title {
+h1.entry-title,
+.home h2 {
 	color: #521a4a;
 }
 
