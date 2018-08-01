@@ -34,7 +34,9 @@ strong {
 	color: #521a4a;
 }
 
-button, input[type="button"], input[type="submit"],
+button,
+input[type="button"],
+input[type="submit"],
 .entry-footer .edit-link a.post-edit-link {
 	background-color: #521a4a;
 }
@@ -50,6 +52,26 @@ button, input[type="button"], input[type="submit"],
 .main-navigation li li a:hover {
 	color: #240e28;
 	background-color: #f3ea5f;
+}
+/*
+ * Footer
+ */
+.site-footer {
+	background-color: #521a4a;
+	color: #fff;
+}
+.site-footer button, 
+.site-footer input[type="button"], 
+.site-footer input[type="submit"],
+.site-footer .entry-footer .edit-link a.post-edit-link {
+	background-color: #fff;
+	color: #521a4a;
+}
+
+.site-footer a,
+.site-footer .entry-title a,
+.site-footer a strong {
+	color: #25a9f0;
 }
 
 /*
