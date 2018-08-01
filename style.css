@@ -34,7 +34,7 @@ b {
 }
 
 button, input[type="button"], input[type="submit"],
-a.post-edit-link {
+.entry-footer .edit-link a.post-edit-link {
 	background-color: #521a4a;
 }
 
