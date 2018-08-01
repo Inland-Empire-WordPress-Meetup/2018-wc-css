@@ -20,7 +20,8 @@ h6,
 }
 
 a,
-.entry-title a {
+.entry-title a,
+a strong {
 	color: #25a9f0;
 }
 a:hover,
@@ -28,8 +29,7 @@ h3.entry-title a:hover {
 	color: #25a9f0;
 }
 
-strong,
-b {
+strong {
 	color: #521a4a;
 }
 
