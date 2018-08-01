@@ -71,9 +71,12 @@ input[type="submit"],
 .site-footer a,
 .site-footer .entry-title a,
 .site-footer a strong {
-	color: #25a9f0;
+	color: #fff;
 }
 
+.site-footer h2.widget-title {
+	color: #fff;
+}
 /*
  *	Organizer Page CSS - https://2018.riverside.wordcamp.org/organizers
  */
