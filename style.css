@@ -60,6 +60,9 @@ input[type="submit"],
 	background-color: #521a4a;
 	color: #fff;
 }
+.site-footer strong {
+	color: #fff;
+}
 .site-footer button, 
 .site-footer input[type="button"], 
 .site-footer input[type="submit"],
