@@ -23,6 +23,9 @@ a,
 .entry-title a {
 	color: #25a9f0;
 }
+a:hover {
+	color: #25a9f0;
+}
 
 /*
  * Navigation Styles
