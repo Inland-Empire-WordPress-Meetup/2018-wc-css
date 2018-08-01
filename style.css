@@ -6,14 +6,16 @@
  * #25a9f0 - blue
  * #ffffff - white
  */
-
+/*
+ * Fonts
+ */
 h1,
 h2,
 h3,
 h4,
 h5,
 h6,
-.entry-title a {
+h3.entry-title a {
 	font-family: 'Roboto Slab', serif;
 }
 
