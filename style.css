@@ -28,6 +28,15 @@ h3.entry-title a:hover {
 	color: #25a9f0;
 }
 
+strong,
+b {
+	color: #521a4a;
+}
+
+button, input[type="button"], input[type="submit"] {
+	background-color: #521a4a;
+}
+
 /*
  * Navigation Styles
  */
