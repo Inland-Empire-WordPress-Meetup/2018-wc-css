@@ -111,9 +111,9 @@ img.avatar {
     	border: solid;
 }
 /*
- * Sponsor Page
+ * Sponsors Page
  */
-.page-slug-sponsors h2 {
+.page-slug-sponsors .entry-content h2 {
 	text-align: center;
 	font-size: 6em;
 	background: #f3ea5f;
