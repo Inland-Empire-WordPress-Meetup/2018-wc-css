@@ -11,7 +11,8 @@
  * Fonts
  */
 body,
-.entry-title {
+.entry-title,
+.page .panel-content .entry-title {
 	color: #240e28
 }
 
