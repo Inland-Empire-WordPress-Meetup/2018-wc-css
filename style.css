@@ -23,7 +23,8 @@ a,
 .entry-title a {
 	color: #25a9f0;
 }
-a:hover {
+a:hover,
+h3.entry-title a:hover {
 	color: #25a9f0;
 }
 
