@@ -10,7 +10,8 @@
 /*
  * Fonts
  */
-body {
+body,
+.entry-title {
 	color: #240e28
 }
 
