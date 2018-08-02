@@ -50,7 +50,6 @@ input[type="button"],
 input[type="submit"],
 .entry-footer .edit-link a.post-edit-link {
 	background-color: #521a4a;
-	background-image: url('https://2018.riverside.wordcamp.org/files/2018/08/wiggle-pattern-5-opacity.png');
 }
 
 /*
@@ -71,6 +70,8 @@ input[type="submit"],
 .site-footer {
 	background-color: #521a4a;
 	color: #fff;
+	background-image: url('https://2018.riverside.wordcamp.org/files/2018/08/wiggle-pattern-5-opacity.png');
+
 }
 .site-footer strong {
 	color: #fff;
