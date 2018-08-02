@@ -21,7 +21,8 @@ h3,
 h4,
 h5,
 h6,
-.entry-title a {
+.entry-title a,
+.site-title {
 	font-family: 'Roboto Slab', serif;
 }
 
