@@ -65,9 +65,18 @@ input[type="submit"],
 	background-color: #f3ea5f;
 }
 /*
+ * Site content area
+ */
+.site-content {
+    border-bottom: 1em solid #d8247c;
+}
+
+/*
  * Footer
  */
 .site-footer {
+	margin-top: 1em;
+	border-top: 1em solid #25a9f0;
 	background-color: #521a4a;
 	color: #fff;
 	background-image: url('https://2018.riverside.wordcamp.org/files/2018/08/wiggle-pattern-5-opacity.png');
