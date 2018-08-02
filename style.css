@@ -116,9 +116,9 @@ img.avatar {
 	float: left;
 	margin-right: 1rem;
 	padding: 0;
-	border-color: #f3ea5f #f3ea5f #d8247c #d8247c !important;
+	border-color: #25a9f0 #25a9f0 #d8247c #d8247c !important;
     	border-radius: 3em;
-    	border-width: 0.4em 0.4em 0.2em 0.2em !important;
+    	border-width: 0.3em !important;
     	border: solid;
 }
 /*
