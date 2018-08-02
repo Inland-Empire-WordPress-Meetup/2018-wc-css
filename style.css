@@ -112,8 +112,12 @@ input[type="submit"],
 /*
  *	Organizer Page CSS - https://2018.riverside.wordcamp.org/organizers
  */
-div.wcorg-organizer h2 {
+.wcorg-organizer h2 {
 	padding-top: 3rem;
+}
+
+.wcorg-organizer h3 {
+	display: inline;
 }
 
 /*
