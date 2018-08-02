@@ -74,7 +74,8 @@ input[type="submit"],
 /*
  * Footer
  */
-.site-footer {
+.site-footer,
+.site-branding {
 	margin-top: 1em;
 	border-top: 1em solid #25a9f0;
 	background-color: #521a4a;
