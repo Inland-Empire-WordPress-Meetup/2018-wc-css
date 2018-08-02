@@ -4,7 +4,6 @@
  * #521a4a - purple
  * #d8247c - red
  * #25a9f0 - blue
- * #f3ea5f - yellow (decrative only, color contrast to low for text)
  * #ffffff - white
  */
 /*
@@ -59,11 +58,15 @@ input[type="submit"],
 	color: #d8247c;
 }
 
-.main-navigation li li:hover > a,
-.main-navigation li li a:hover {
-	color: #240e28;
-	background-color: #f3ea5f;
+/*
+ * Site Branding - Temporary until identity is ready
+ */
+.site-branding {
+	background-color: #25a9f0;
+	color: #fff;
+	background-image: url('https://2018.riverside.wordcamp.org/files/2018/08/wiggle-pattern-5-opacity.png');
 }
+
 /*
  * Site content area
  */
@@ -74,8 +77,7 @@ input[type="submit"],
 /*
  * Footer
  */
-.site-footer,
-.site-branding {
+.site-footer {
 	margin-top: 1em;
 	border-top: 1em solid #25a9f0;
 	background-color: #521a4a;
