@@ -117,6 +117,7 @@ input[type="submit"],
 }
 
 .site-footer .widget a.sponsor-logo {
+	margin: 0.25em;
 	padding: 3em;
 	border-radius: 2px;
 	background: #fff;
