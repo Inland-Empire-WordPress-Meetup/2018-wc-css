@@ -56,9 +56,13 @@ input[type="submit"],
 .entry-footer .edit-link a.post-edit-link {
 	background-color: #521a4a;
 }
-/* sponsor button */
-.textwidget button a {
-	color: #521a4a;
+
+ a.button {
+	 padding: 0.25em;
+	 color: #521a4a;
+	 background-color: #fff;
+	 box-radius: 2px;
+	 font-weight: bold;
 }
 
 #content .contact-form input[type="email"],
