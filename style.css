@@ -58,6 +58,7 @@ input[type="submit"],
 }
 
  a.button {
+	 display: block;
 	 padding: 0.25em;
 	 color: #521a4a;
 	 background-color: #fff;
