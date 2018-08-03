@@ -46,6 +46,9 @@ strong {
 	color: #521a4a;
 }
 
+/*
+ * Buttons, input, and forms components
+ */
 button,
 input[type="button"],
 input[type="submit"],
@@ -53,7 +56,9 @@ input[type="submit"],
 	background-color: #521a4a;
 }
 
-input.name {
+.contact-form input[type="email"],
+.contact-form input[type="text"],
+.contact-form input[type="url"] {
 	width: 80%;
 }
 
