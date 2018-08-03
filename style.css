@@ -58,8 +58,8 @@ input[type="submit"],
 }
 
  a.button {
-	 display: block;
-	 padding: 0.25em;
+	 display: inline-block;
+	 padding: 1.5em;
 	 color: #521a4a;
 	 background-color: #fff;
 	 box-radius: 2px;
