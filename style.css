@@ -53,6 +53,10 @@ input[type="submit"],
 	background-color: #521a4a;
 }
 
+input.name {
+	width: 80%;
+}
+
 /*
  * Navigation Styles
  */
