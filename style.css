@@ -114,11 +114,13 @@ input[type="submit"],
 
 .site-footer .widget a.sponsor-logo {
 	padding: 3em;
+	border-radius: 2px;
 	background: #fff;
 	text-align: center;
 }
 
 .site-footer .widget h4 {
+	margin-top: 2em;
 	text-align:center;
 	color: #fff;
 }
