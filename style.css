@@ -28,7 +28,8 @@ h6,
 
 h1.entry-title,
 .home h2,
-.entry-content h2 {
+.entry-content h2,
+.entry-content h3 {
 	color: #521a4a;
 }
 
@@ -140,9 +141,10 @@ input[type="submit"],
 }
 
 /*
- *	Organizer Page CSS - https://2018.riverside.wordcamp.org/organizers
+ *	Organizer & Sponsor Pages
  */
-.wcorg-organizer h2 {
+.wcorg-organizer h2,
+.wcorg-sponsors h3 {
 	padding-top: 3rem;
 }
 
