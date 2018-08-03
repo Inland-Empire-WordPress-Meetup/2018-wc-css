@@ -111,6 +111,18 @@ input[type="submit"],
 .site-footer h2.widget-title {
 	color: #fff;
 }
+
+.site-footer .widget a.sponsor-logo {
+	padding: 3em;
+	background: #fff;
+	text-align: center;
+}
+
+.site-footer .widget h4 {
+	text-align:center;
+	color: #fff;
+}
+
 /*
  *	Organizer Page CSS - https://2018.riverside.wordcamp.org/organizers
  */
