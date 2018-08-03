@@ -59,7 +59,7 @@ input[type="submit"],
 
  a.button {
 	 display: inline-block;
-	 padding: 0.75em;
+	 padding: 0.75em 1.5em;
 	 color: #521a4a !important;
 	 background-color: #fff;
 	 box-radius: 2px;
