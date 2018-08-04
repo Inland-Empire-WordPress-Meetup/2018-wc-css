@@ -152,8 +152,7 @@ input[type="submit"],
 /*
  *	Organizer & Sponsor Pages
  */
-.wcorg-organizer h2,
-.wcorg-sponsors h3 {
+.wcorg-organizer h2 {
 	padding-top: 3rem;
 }
 
@@ -183,4 +182,7 @@ input[type="submit"],
 	background: #25a9f0;
 	background-image: url('https://2018.riverside.wordcamp.org/files/2018/08/wiggle-pattern-5-opacity.png');
 	color: #fff;
+}
+wcorg-sponsors h3 {
+	padding: 1rem 0;
 }
