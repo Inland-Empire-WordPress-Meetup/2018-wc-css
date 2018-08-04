@@ -177,9 +177,10 @@ input[type="submit"],
  * Sponsors Page
  */
 .page-slug-sponsors .entry-content h2 {
-	text-align: center;
-	font-size: 6em;
-	background: #f3ea5f;
-	color: #fff;
 	border-radius: 2px;
+	text-align: center;
+	font-size: 3em;
+	background: #25a9f0;
+	background-image: url('https://2018.riverside.wordcamp.org/files/2018/08/wiggle-pattern-5-opacity.png');
+	color: #fff;
 }
