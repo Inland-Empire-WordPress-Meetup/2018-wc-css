@@ -150,7 +150,7 @@ input[type="submit"],
 }
 
 /*
- *	Organizer & Sponsor Pages
+ *	Organizer Page
  */
 .wcorg-organizer h2 {
 	padding-top: 3rem;
@@ -176,6 +176,7 @@ input[type="submit"],
  * Sponsors Page
  */
 .page-slug-sponsors .entry-content h2 {
+	margin-top: 3rem;
 	border-radius: 2px;
 	text-align: center;
 	font-size: 3em;
