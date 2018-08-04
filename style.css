@@ -187,3 +187,7 @@ input[type="submit"],
 wcorg-sponsors h3 {
 	padding: 1rem 0;
 }
+
+.wcorg-organizers .avatar-default {
+	display: none;
+}
