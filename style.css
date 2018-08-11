@@ -80,24 +80,28 @@ input[type="submit"],
 }
 
 /*
- * Site Branding - Temporary until identity is ready
+ * Site Branding - 
+ */
  
-.site-branding {
-	background-color: #25a9f0;
-	color: #fff;
-	background-image: url('https://2018.riverside.wordcamp.org/files/2018/08/wiggle-pattern-5-opacity.png');
+.page .wp-custom-header img,
+.single .wp-custom-header img,
+.blog .wp-custom-header img {
+	display: none;
 }
-.site-branding a,
-.site-branding p {
-	color: #fff;
-}
-*/
 
-/*Laptop & Desktop screens */
-@media screen and (min-width: 48em) {
-	.twentyseventeen-front-page.has-header-image .custom-header-image {
-	height: 50vh;
-	}
+.home .wp-custom-header img {
+	display: block;
+}
+
+.page .custom-header,
+.single .custom-header,
+.blog .custom-header {
+	background-color: #240e28;
+}
+
+/* Hide custom-logo on home */
+.home a.custom-logo-link {
+	display: none;
 }
 
 /*
