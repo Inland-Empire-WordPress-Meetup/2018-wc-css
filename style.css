@@ -92,6 +92,14 @@ input[type="submit"],
 	color: #fff;
 }
 */
+
+/*Laptop & Desktop screens */
+@media screen and (min-width: 48em) {
+	.twentyseventeen-front-page.has-header-image .custom-header-image {
+	height: 50vh;
+	}
+}
+
 /*
  * Site content area
  */
