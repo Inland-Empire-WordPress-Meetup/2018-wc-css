@@ -148,10 +148,6 @@ input[type="submit"],
 }
 
 .site-footer .widget a.sponsor-logo {
-	margin: 0.25em;
-	padding: 3em;
-	border-radius: 2px;
-	background: #fff;
 	text-align: center;
 }
 
@@ -161,6 +157,29 @@ input[type="submit"],
 	color: #fff;
 }
 
+.site-footer div.bronze a.sponsor-logo {
+	column-count: 3;
+	margin: .1rem;
+	padding: .1rem;
+}
+
+.site-footer div.silver a.sponsor-logo {
+	column-count: 2;
+	padding: .1rem;
+	margin: .1rem;
+}
+
+.site-footer div.bronze img,
+.site-footer div.silver img,
+.site-footer div.gold img {
+	padding: .25rem;
+	margin: .1rem;
+	background-color: #fff;
+}
+
+.site-footer .widget-area a {
+	box-shadow: none;
+}
 /*
  *	Organizer Page
  */
