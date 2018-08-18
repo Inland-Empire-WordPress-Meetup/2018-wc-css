@@ -155,18 +155,6 @@ input[type="submit"],
 	color: #fff;
 }
 
-.site-footer div.bronze {
-	column-count: 3;
-	margin: 0.1rem;
-	padding: 0.1rem;
-}
-
-.site-footer div.silver {
-	column-count: 2;
-	padding: 0.1rem;
-	margin: 0.1rem;
-}
-
 .site-footer div.bronze img,
 .site-footer div.silver img,
 .site-footer div.gold img {
