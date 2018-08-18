@@ -33,7 +33,6 @@ h1.entry-title,
 	color: #521a4a;
 }
 
-a,
 .entry-title a,
 a strong {
 	color: #25a9f0;
@@ -148,6 +147,7 @@ input[type="submit"],
 }
 
 .site-footer .widget a.sponsor-logo {
+	display: inline-block;
 	text-align: center;
 }
 
@@ -159,21 +159,21 @@ input[type="submit"],
 
 .site-footer div.bronze a.sponsor-logo {
 	column-count: 3;
-	margin: .1rem;
-	padding: .1rem;
+	margin: 0.1rem;
+	padding: 0.1rem;
 }
 
 .site-footer div.silver a.sponsor-logo {
 	column-count: 2;
-	padding: .1rem;
-	margin: .1rem;
+	padding: 0.1rem;
+	margin: 0.1rem;
 }
 
 .site-footer div.bronze img,
 .site-footer div.silver img,
 .site-footer div.gold img {
-	padding: .25rem;
-	margin: .1rem;
+	padding: 0.25rem;
+	margin: 0.1rem;
 	background-color: #fff;
 }
 
