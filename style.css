@@ -152,6 +152,7 @@ input[type="submit"],
 .site-footer .bronze a.sponsor-logo,
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
+	display: block;
 	float: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
@@ -170,7 +171,7 @@ input[type="submit"],
 	width: 28%;
 }
 /* manually center woo commerce logo */
-.site-footer .sponsor-level.gold a:first-child {
+.site-footer .sponsor-level.gold:first-child {
 	padding-top: 13px;
 	border: 10px solid green;
 }
