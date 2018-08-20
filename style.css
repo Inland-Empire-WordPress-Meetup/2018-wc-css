@@ -156,7 +156,7 @@ input[type="submit"],
 	float: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
-	min-height:38px;
+	min-height:48px;
 	width: 44%;
 	background-color: #fff;
 }
@@ -166,7 +166,7 @@ input[type="submit"],
 	float:left;
 	padding: 0.25rem;
 	margin: 0.25rem;
-	min-height:28px;
+	min-height:38px;
 	width: 28%;
 	background-color: #fff;
 }
