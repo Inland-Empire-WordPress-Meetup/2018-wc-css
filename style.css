@@ -149,12 +149,20 @@ input[type="submit"],
 	display: table;
 }
 
+.site-footer .bronze a.sponsor-logo,
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
 	display: table-row;
+	float: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
-	min-height:48px;
+	background-color: #fff;
+}
+
+.site-footer .silver a.sponsor-logo,
+.site-footer .gold a.sponsor-logo {
+	display: table-row;
+	min-height: 48px;
 	width: 45%;
 	background-color: #fff;
 }
