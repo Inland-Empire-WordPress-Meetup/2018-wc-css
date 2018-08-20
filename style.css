@@ -175,9 +175,6 @@ input[type="submit"],
 .site-footer div.bronze img,
 .site-footer div.silver img,
 .site-footer div.gold img {
-	padding: 0.25rem;
-	margin: 0.1rem;
-	background-color: #fff;
 }
 
 .site-footer .widget-area a {
