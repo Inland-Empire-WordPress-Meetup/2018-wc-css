@@ -149,14 +149,12 @@ input[type="submit"],
 	line-height: 0;
 }
 .site-footer .sponsor-level {
-	float: left;
 }
 
 .site-footer .bronze a.sponsor-logo,
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
 	display: block;
-	float: left;
 	clear: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
