@@ -146,6 +146,8 @@ input[type="submit"],
 	color: #fff;
 }
 
+/* Sponsors Footer */
+
 .site-footer .sponsor-level h4.sponsor-level-title {
 	margin:0;
 	padding: 1.5rem 0 1rem 0;
@@ -153,8 +155,10 @@ input[type="submit"],
 }
 
 .site-footer .bronze a.sponsor-logo,
+.site-footer .big-hair-band a.sponsor-logo
 .site-footer .silver a.sponsor-logo,
-.site-footer .gold a.sponsor-logo {
+.site-footer .gold a.sponsor-logo,
+.site-footer .platinum a.sponsor-logo{
 	display: block;
 	float: left;
 	padding: 0.25rem;
@@ -167,8 +171,31 @@ input[type="submit"],
 	width: 47%;
 }
 
-.site-footer .bronze a.sponsor-logo {
+.site-footer .bronze a.sponsor-logo,
+.site-footer .big-hair-band a.sponsor-logo {
 	width: 28%;
+}
+
+.site-footer .platinum .sponsor-logo {
+	height: 10rem;
+}
+
+.site-footer .gold .sponsor-logo,
+.site-footer .silver .sponsor-logo {
+	height: 7rem;
+}
+
+.site-footer .bronze .sponsor-logo,
+.site-footer .big-hair-band .sponsor-logo {
+	height: 4rem;
+}
+
+.site-footer .sponsor-logo img {
+	top: 50%;
+	left: 50%;
+	padding: .25rem;
+	transform: translate(-50%,-50%);
+	position: relative;
 }
 
 .site-footer .widget h4 {
