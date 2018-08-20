@@ -170,11 +170,6 @@ input[type="submit"],
 	margin: 0.25rem;
 	width: 28%;
 }
-/* manually center woo commerce logo */
-.site-footer .sponsor-level.gold:first-child {
-	padding-top: 13px;
-	border: 10px solid green;
-}
 
 .site-footer .widget h4 {
 	margin-top: 2em;
