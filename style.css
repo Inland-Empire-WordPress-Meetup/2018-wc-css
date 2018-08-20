@@ -150,6 +150,7 @@ input[type="submit"],
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
 	display: block;
+	float: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
 	background-color: #fff;
@@ -157,12 +158,11 @@ input[type="submit"],
 
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
-	background-color: #fff;
+	width: 47%;
 }
 
 .site-footer .bronze a.sponsor-logo {
-	padding: 0.25rem;
-	margin: 0.25rem;
+	width: 28%;
 }
 
 .site-footer .widget h4 {
