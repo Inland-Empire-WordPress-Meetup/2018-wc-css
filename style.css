@@ -157,16 +157,17 @@ input[type="submit"],
 	padding: 0.25rem;
 	margin: 0.25rem;
 	min-height:48px;
-	width: 44%;
+	width: 45%;
 	background-color: #fff;
 }
 
 .site-footer .bronze a.sponsor-logo {
 	display: block;
-	float:left;
+	float: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
-	min-height:38px;
+	min-height: 38px;
+	vertical-align: middle;
 	width: 28%;
 	background-color: #fff;
 }
@@ -175,11 +176,6 @@ input[type="submit"],
 	margin-top: 2em;
 	text-align:center;
 	color: #fff;
-}
-
-.site-footer div.bronze img,
-.site-footer div.silver img,
-.site-footer div.gold img {
 }
 
 .site-footer .widget-area a {
