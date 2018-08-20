@@ -148,6 +148,9 @@ input[type="submit"],
 .site-footer .wcb_widget_sponsors {
 	line-height: 0;
 }
+.site-footer .sponsor-level {
+	float: left;
+}
 
 .site-footer .bronze a.sponsor-logo,
 .site-footer .silver a.sponsor-logo,
