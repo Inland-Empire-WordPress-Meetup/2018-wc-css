@@ -146,6 +146,12 @@ input[type="submit"],
 	color: #fff;
 }
 
+.site-footer .sponsor-level h4.sponsor-level-title {
+	margin:0;
+	padding: 1.5rem 0 1rem 0;
+	font-size: 2em;
+}
+
 .site-footer .bronze a.sponsor-logo,
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
