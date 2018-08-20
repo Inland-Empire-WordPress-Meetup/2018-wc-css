@@ -173,12 +173,11 @@ input[type="submit"],
 }
 
 .site-footer .bronze a.sponsor-logo {
-	display: table;
+	display: table-row;
 	padding: 0.25rem;
 	margin: 0.25rem;
 	min-height: 38px;
 	width: 28%;
-	background-color: #fff;
 }
 
 .site-footer .widget h4 {
