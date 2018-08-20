@@ -151,15 +151,18 @@ input[type="submit"],
 }
 
 .site-footer .silver a.sponsor-logo,
-.site-footer .gold a.sponsor-logo{
+.site-footer .gold a.sponsor-logo {
 	display: block;
-	width: 50%;
+	float: left;
+	width: 48%;
 	padding: 0;
+	
 }
 
 .site-footer .bronze a.sponsor-logo {
 	display: block;
-	width: 33%;
+	float:left;
+	width: 31%;
 	padding: 0;
 }
 
