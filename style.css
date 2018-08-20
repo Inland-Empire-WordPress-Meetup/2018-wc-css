@@ -146,7 +146,11 @@ input[type="submit"],
 	color: #fff;
 }
 
-/* Sponsors Footer */
+/* Footer - Sponsor Logos */
+
+.site-footer .sponsor-level.micro-machine {
+	display: none;
+}
 
 .site-footer .sponsor-level h4.sponsor-level-title {
 	margin:0;
