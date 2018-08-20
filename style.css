@@ -145,17 +145,11 @@ input[type="submit"],
 .site-footer h2.widget-title {
 	color: #fff;
 }
-.site-footer .wcb_widget_sponsors {
-	line-height: 0;
-}
-.site-footer .sponsor-level {
-}
 
 .site-footer .bronze a.sponsor-logo,
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
 	display: block;
-	clear: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
 	background-color: #fff;
@@ -163,7 +157,6 @@ input[type="submit"],
 
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
-	width: 45%;
 	background-color: #fff;
 }
 
