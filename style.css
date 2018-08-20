@@ -145,14 +145,12 @@ input[type="submit"],
 .site-footer h2.widget-title {
 	color: #fff;
 }
-.site-footer .wcb_widget_sponsors {
-	display: table;
-}
+.site-footer .wcb_widget_sponsors {}
 
 .site-footer .bronze a.sponsor-logo,
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
-	display: table-row;
+	display: table;
 	float: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
@@ -161,7 +159,6 @@ input[type="submit"],
 
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
-	display: table-row;
 	min-height: 48px;
 	width: 45%;
 	background-color: #fff;
@@ -173,7 +170,6 @@ input[type="submit"],
 }
 
 .site-footer .bronze a.sponsor-logo {
-	display: table-row;
 	padding: 0.25rem;
 	margin: 0.25rem;
 	min-height: 38px;
