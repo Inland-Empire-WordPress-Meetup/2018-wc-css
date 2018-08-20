@@ -180,6 +180,10 @@ input[type="submit"],
 .site-footer .widget-area a {
 	box-shadow: none;
 }
+
+.entry-content a img, .comment-content a img, .widget a img {
+    -webkit-box-shadow: none;
+    box-shadow: none;
 /*
  *	Organizer Page
  */
