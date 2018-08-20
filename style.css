@@ -154,18 +154,19 @@ input[type="submit"],
 .site-footer .gold a.sponsor-logo {
 	display: block;
 	float: left;
-	width: 47%;
-	padding: 0.5rem;
-	margin: 0.5rem;
-	
+	padding: 0.25rem;
+	margin: 0.25rem;
+	width: 44%;
+	background-color: #fff;
 }
 
 .site-footer .bronze a.sponsor-logo {
 	display: block;
 	float:left;
-	width: 29%;
-	padding: 0.5rem;
-	margin: 0.5rem;
+	padding: 0.25rem;
+	margin: 0.25rem;
+	width: 28%;
+	background-color: #fff;
 }
 
 .site-footer .widget h4 {
