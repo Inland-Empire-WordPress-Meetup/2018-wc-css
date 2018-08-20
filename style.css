@@ -153,7 +153,6 @@ input[type="submit"],
 .site-footer .silver a.sponsor-logo,
 .site-footer .gold a.sponsor-logo {
 	display: table-row;
-	float: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
 	background-color: #fff;
