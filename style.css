@@ -170,7 +170,7 @@ input[type="submit"],
 	width: 28%;
 }
 /* manually center woo commerce logo */
-.site-footer .gold a.sponsor-logo:first-child {
+.site-footer .gold a:first-child {
 	padding-top: 14px;
 }
 
