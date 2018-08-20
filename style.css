@@ -145,7 +145,9 @@ input[type="submit"],
 .site-footer h2.widget-title {
 	color: #fff;
 }
-.site-footer .wcb_widget_sponsors {}
+.site-footer .wcb_widget_sponsors {
+	line-height: 0;
+}
 
 .site-footer .bronze a.sponsor-logo,
 .site-footer .silver a.sponsor-logo,
@@ -167,8 +169,10 @@ input[type="submit"],
 	margin: 0.25rem;
 	width: 28%;
 }
-
-.site-footer img {}
+/* manually center woo commerce logo */
+.site-footer .gold a.sponsor-logo:first-child {
+	padding-top: 14px;
+}
 
 .site-footer .widget h4 {
 	margin-top: 2em;
