@@ -157,6 +157,7 @@ input[type="submit"],
 .site-footer .gold a.sponsor-logo {
 	display: block;
 	float: left;
+	clear: left;
 	padding: 0.25rem;
 	margin: 0.25rem;
 	background-color: #fff;
