@@ -61,14 +61,13 @@ input[type="submit"],
 	 padding: 0.75em 1.5em;
 	 color: #521a4a !important;
 	 background-color: #fff;
-	 box-radius: 2px;
+	 border-radius: 2px;
 	 font-weight: bold;
 }
 
 #content a.button {
 	color: #fff !important;
 	background-color: #521a4a;
-	box-radius: 2px;
 }
 
 #content .contact-form input[type="email"],
