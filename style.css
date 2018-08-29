@@ -65,6 +65,11 @@ input[type="submit"],
 	 font-weight: bold;
 }
 
+#content a.button {
+	 color: #fff !important;
+	 background-color: #521a4a;
+}
+
 #content .contact-form input[type="email"],
 #content .contact-form input[type="text"],
 #content .contact-form input[type="url"] {
