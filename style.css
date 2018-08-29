@@ -66,8 +66,9 @@ input[type="submit"],
 }
 
 #content a.button {
-	 color: #fff !important;
-	 background-color: #521a4a;
+	color: #fff !important;
+	background-color: #521a4a;
+	box-radius: 2px;
 }
 
 #content .contact-form input[type="email"],
