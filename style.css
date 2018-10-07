@@ -26,6 +26,10 @@ h6,
 	font-family: 'Roboto Slab', serif;
 }
 
+h3 {
+	font-size: 1.625rem;
+}
+
 h1.entry-title,
 .home h2,
 .entry-content h2,
@@ -262,3 +266,98 @@ wcorg-sponsors h3 {
 .wcorg-organizers .avatar-default {
 	display: none;
 }
+	
+.wcb_widget_sponsors .platinum a.sponsor-logo {
+	min-width: 249px;
+}
+
+/* content link underlines */
+.entry-content a,
+.entry-content a:hover {
+	font-weight: 400;
+	color: #25a9f0;
+	border-color: #25a9f0;
+	-moz-box-shadow: inset 0 -1px 0 rgba(23,23,162,1);
+	box-shadow: inset 0 -1px 0 rgba(37,169,240,1);
+}
+
+.entry-content a:hover {
+	-moz-box-shadow: inset 0 -2px 0 rgba(23,23,162,1);
+	box-shadow: inset 0 -2px 0 rgba(37,169,240,1);
+}
+
+a.wp-block-file__button {
+	color: #fff;
+}
+
+/* sessions page and table */
+tr td {
+	padding: 1.25rem .25rem;
+}
+
+tr:nth-child(even) {
+	background-color: #f6f6f6;
+}
+
+td.wcpt-time {
+	padding-left: 1rem;
+}
+
+div.wcb-session-favourite-icon a.fav-session-button {
+	color: #521a4a;
+	border-width: 0;
+	box-shadow: none;
+}
+
+div.wcb-session-favourite-icon a.fav-session-button:hover, #content a.fav-session-button:hover {
+	color: #25a9f0;
+	border-width: 0;
+	box-shadow: none;
+}
+
+td.wcb-favourite-session a.fav-session-button {
+	color: #d8247c;
+}
+	
+td.wcb-session-lunch {
+	text-align: center;
+}
+
+.wcb-favourite-session {
+	background-color: #EBF7FE;
+}
+
+.wcpt-session-speakers {
+	display: block;
+	padding-top: 1rem;
+}
+
+.wcpt-session-speakers,
+.wcpt-session-speakers a,
+.wcpt-session-speakers a:hover {
+	color: #521a4a;
+	font-weight: 900;
+}
+
+.wcpt-session-title {
+	font-size: 1.2rem;
+}
+
+.wcpt-time {
+	font-weight: 900;
+}
+
+.global-session.lunch,
+.global-session.lunch a.wcpt-session-title {
+	background-color: #521a4a;
+	color: #fff;
+	font-weight: 900;
+}
+
+.global-session.lunch a.wcpt-session-title {
+	display: block;
+	text-align: center;
+	border-width: 0;
+	box-shadow: none;
+}
+	
