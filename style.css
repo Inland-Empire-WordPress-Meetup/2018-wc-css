@@ -361,3 +361,58 @@ td.wcb-session-lunch {
 	box-shadow: none;
 }
 	
+/* Remove specific avatars */
+.avatar-default,
+.post-1165 .avatar,
+.post-1183 .avatar,
+.wcorg-speaker-greg-taylor .avatar,
+.wcorg-speaker-gertrude-nonterah .avatar {
+	display: none;
+}
+
+img.size-thumbnail {
+	margin-right: 1rem;
+	padding: 0;
+	border-color: #25a9f0 #25a9f0 #d8247c #d8247c !important;
+	border-radius: 10em;
+	border-width: .3em !important;
+	border: solid;
+}
+
+.site-content img.avatar {
+	border-radius: 10rem;
+}
+
+/* Schedule */
+.page-id-7 #content h2,
+.page-id-7 #content h3 {
+	font-weight: 900;
+	font-size: 2.5rem;
+}
+
+.page-id-7 h3 {
+	margin-top: 4rem;
+}
+
+/* Smartphones  */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.page-id-7 h2,
+																	.page-id-7 h3 {
+		font-weight: 900;
+		font-size: 1.2rem;
+	}
+}
+
+#tix-attendees .tix-field {
+	display: inline;
+}
+
+/* Sucuri logo background color override */
+#colophon .gold a.sponsor-logo:last-child {
+	background-color: #000;
+}
+
+/* MarketResearch.biz logo height override */
+#colophon .big-hair-band .sponsor-logo:last-child img {
+	max-height: 120%;
+}
