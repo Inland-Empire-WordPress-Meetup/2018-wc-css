@@ -407,8 +407,17 @@ img.size-thumbnail {
 	display: inline;
 }
 
-/* Sucuri logo background color override */
+/* Sucuri logo color overrides */
 #colophon .gold a.sponsor-logo:last-child {
+	background-color: #000;
+}
+.wcb_sponsor-slug-sucuri .single-featured-image-header {
+	padding: 2em 0;
+	background-color: #000;
+}
+
+#wcorg-sponsor-952 img.wp-post-image {
+	padding: 1em;
 	background-color: #000;
 }
 
